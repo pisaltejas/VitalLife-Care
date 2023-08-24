@@ -57,34 +57,39 @@ The problem we aim to solve is the complexity and opacity of accessing healthcar
 
 ## Screenshots
 
-## Home 
+## 1. Home 
 ![Home](https://github.com/pisaltejas/finalproject/assets/137098887/2edb6b30-cc62-4e0c-a22d-8c1e021b0364)
 
-## About US
+## 2. About US
 ![about us](https://github.com/pisaltejas/finalproject/assets/137098887/84e97ad9-8c4c-4ca1-94d3-1f5b606bdb54)
 
-## Our Services 
+## 3. Our Services 
 ![Services](https://github.com/pisaltejas/finalproject/assets/137098887/09ec709f-98a1-4051-8814-398548e81190)
 
-## Our Doctors
+## 4. Our Doctors
 ![Doctors](https://github.com/pisaltejas/finalproject/assets/137098887/fbe65891-d787-4440-a3e9-fb46a6f1cde9)
 
-
-## Appointment Now 
+## 5. Appointment Now 
 ![Appointment](https://github.com/pisaltejas/finalproject/assets/137098887/76e90f52-48f8-4499-8464-cc9f9cd22285)
 
-## Client's review
+## 6. Client's review
 ![Client review](https://github.com/pisaltejas/finalproject/assets/137098887/c32eb60e-71cb-4e62-8a26-7e61c298e7ee)
 
-## Our Blogs
+## 7. Our Blogs
 ![Blogs](https://github.com/pisaltejas/finalproject/assets/137098887/3459f140-2fd4-4420-a166-bad60e0e32a2)
 
-
-## Our Chatbot
+## 8. Our Chatbot
 ![Chatbot](https://github.com/pisaltejas/finalproject/assets/137098887/9f2592e5-ab74-4cf1-9097-bcbd9b7b3640)
 
-## Footer
+## 9. Footer
 ![Footer](https://github.com/pisaltejas/finalproject/assets/137098887/f73d0d57-6a4d-4f9b-8304-3503d4bb67dd)
+
+## 10. Static web app 
+![Static web app](https://github.com/pisaltejas/finalproject/assets/137098887/ddb69673-5129-413d-8ce5-7481ab060c87)
+
+## 11. My health bot on Azure portal
+![My health Bot](https://github.com/pisaltejas/finalproject/assets/137098887/f11919d0-3b61-4921-864e-79b68e41ad46)
+
 ## Demo
 
 
