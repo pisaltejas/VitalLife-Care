@@ -2,8 +2,11 @@
 ## Final FRT Project
 This is my FRT Internship project
 
-### Project Demo Url (Azure)
+### Project Demo Url (Azure):
  https://white-plant-0966b7710.3.azurestaticapps.net/
+
+### Demo video url :
+
 
 ### Project Description Industry: 
 
@@ -85,12 +88,13 @@ The problem we aim to solve is the complexity and opacity of accessing healthcar
 ![Footer](https://github.com/pisaltejas/finalproject/assets/137098887/f73d0d57-6a4d-4f9b-8304-3503d4bb67dd)
 
 ## 10. Static web app 
-![Static web app](https://github.com/pisaltejas/finalproject/assets/137098887/ddb69673-5129-413d-8ce5-7481ab060c87)
+![Static web app](https://github.com/pisaltejas/finalproject/assets/137098887/5b2aa18c-41fc-4806-9d57-e2f770911eca)
 
 ## 11. My health bot on Azure portal
+
 ![My health Bot](https://github.com/pisaltejas/finalproject/assets/137098887/f11919d0-3b61-4921-864e-79b68e41ad46)
 
-## Demo
+
 
 
 
