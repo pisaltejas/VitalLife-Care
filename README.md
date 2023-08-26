@@ -5,7 +5,8 @@ This is my FRT Internship project
 ### Project Demo Url (Azure):
  https://white-plant-0966b7710.3.azurestaticapps.net/
 
-### Demo video url :
+### Demo video url (youtube) :
+https://youtu.be/HyYJzlwEgzo
 
 
 ### Project Description Industry: 
